@@ -33,7 +33,7 @@ Tecnologías Utilizadas
 ![Interfaz](captura_gui.png)
 
 ** Confirmación de Envío**
-![Mail Recibido](captura_email.png)
+![Mail Recibido](captura_email.jpg)
 
 ---
  **Ejecutable**
